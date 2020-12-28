@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="start_label">Где будем хранить заметки?</string>
+    <string name="start_btn_room">На телефоне</string>
+    <string name="start_btn_firebase">В облаке</string>
+    <string name="title">NotesApp</string>
+    <string name="toast_enter_name">Введите имя заметки</string>
+    <string name="btn_add_note">Добавить</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="start_btn_login">Войти</string>
+    <string name="toast_wrong_enter">Введите почту и пароль</string>
+</resources>
